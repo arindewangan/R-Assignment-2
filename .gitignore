@@ -1,0 +1,39 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Compiled code
+*.o
+*.so
+*.dll
+
+# Packages
+.packrat/
+renv/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# R Markdown cache
+*_cache/
+*.knit.md
+*.utf8.md
